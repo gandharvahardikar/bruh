@@ -1,0 +1,18 @@
+streamlit>=1.30.0
+pytesseract
+pdf2image
+PyMuPDF
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+nltk
+opencv-python-headless
+Pillow
+pandas
+python-doctr[torch]
+groq
+openpyxl
+scikit-learn
+seaborn
+matplotlib
